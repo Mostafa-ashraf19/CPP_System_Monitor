@@ -1,0 +1,3 @@
+/home/mostafa/Downloads/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/home/mostafa/Downloads/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
+/home/mostafa/Downloads/CppND-System-Monitor/build/CMakeFiles/monitor.dir
