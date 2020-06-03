@@ -5,7 +5,9 @@
 #include "linux_parser.h"
 
 namespace Format {
-std::string ElapsedTime(long times);  
+std::string Pad(std::string s, char c); 
+std::string ElapsedTime(long times);
+ 
 };                                    
 
 #endif
